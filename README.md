@@ -8,14 +8,20 @@ Here you will find everything about me and my career. I'm constantly improving m
 
 > Just a heads-up: most of my repositories and comments are in English, but you might find a few in Portuguese (PT-BR) - I'm Brazilian, after all! :brazil:
 
-## My Stats
+---
+
 <div align="center">
   
 ![Mateus Gabriel](https://github-readme-stats.vercel.app/api?username=wavering-ruby&show_icons=true&theme=dark)
 
 </div>
 
-## Technology
+<details>
+<summary>
+
+## Technologies
+
+</summary>
 
 ### Most Used Languages
 <div align="center">
@@ -24,31 +30,69 @@ Here you will find everything about me and my career. I'm constantly improving m
 
 </div>
 
-### Frameworks
+### Programming Languages
 <div align="center">
 
-![Spring Bot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white&labelColor=6DB33F)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+
+---
+
+### Frameworks & Libraries
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+---
+
+### Databases
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### Tools & DevOps
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### Game Engines
+<div align="center">
+
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+</div>
+
+</details>
+</details>
 
 <details>
   <summary><h2> Languages </h2></summary>
 
+<div align="center">
 
+| Language  | Proficiency | Description |
+|------------|--------------|-------------|
+| 🇧🇷 **Portuguese (PT-BR)** | Native | Native speaker |
+| 🇺🇸 **English (EN)** | Advanced (C1) | Daily use in work and study |
+| 🇪🇸 **Spanish (ES)** | Basic Reading (A2-B1) | Reading and text interpretation |
 
+</div>
 </details>
-
-<!--
-**wavering-ruby/wavering-ruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
