@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Mateus Gabriel - a developer passionate about IT projects and software development. 
+
+I also love playing video-games and diving into sci-fi books (though physics books are even better!).
+
+Here you will find everything about me and my career. I'm constantly improving my skills or building new projects to become a better developer, day by day. Hope you enjoy the journey! 
+
+> Just a heads-up: most of my repositories and comments are in English, but you might find a few in Portuguese (PT-BR) - I'm Brazilian, after all! :brazil:
 
 <!--
 **wavering-ruby/wavering-ruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
