@@ -11,14 +11,6 @@ Here you will find everything about me and my career. I'm constantly improving m
 ---
 
 <div align="center">
-  
-![Mateus Gabriel](https://github-readme-stats.vercel.app/api?username=wavering-ruby&show_icons=true&theme=dark)
-
-</div>
-
----
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wavering-ruby/wavering-ruby/output/github-contribution-grid-snake-dark.svg">
@@ -33,13 +25,6 @@ Here you will find everything about me and my career. I'm constantly improving m
 ## Technologies
 
 </summary>
-
-### Most Used Languages
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wavering-ruby&layout=compact&theme=dark)
-
-</div>
 
 ### Programming Languages
 <div align="center">
