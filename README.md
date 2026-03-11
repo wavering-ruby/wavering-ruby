@@ -29,9 +29,9 @@ Here you will find everything about me and my career. I'm constantly improving m
 ### Programming Languages
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 
 </div>
 
@@ -40,8 +40,8 @@ Here you will find everything about me and my career. I'm constantly improving m
 ### Frameworks & Libraries
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![React](https://skillicons.dev/icons?i=react)
 
 </div>
 
@@ -50,8 +50,8 @@ Here you will find everything about me and my career. I'm constantly improving m
 ### Databases
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 </div>
 
@@ -60,9 +60,10 @@ Here you will find everything about me and my career. I'm constantly improving m
 ### Tools & DevOps
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux - Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 </div>
 
@@ -71,8 +72,8 @@ Here you will find everything about me and my career. I'm constantly improving m
 ### Game Engines
 <div align="center">
 
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GameMaker](https://skillicons.dev/icons?i=gamemakerstudio)
+![Godot](https://skillicons.dev/icons?i=godot)
 
 </div>
 
