@@ -1,4 +1,9 @@
 # Hello there 👋
+<div align="center">
+  <img src="img/banners/banner1.png" width="50%" height="50%" alt="My First Banner">
+</div>
+
+---
 
 I'm Mateus Gabriel - a developer passionate about IT projects and software development. 
 
