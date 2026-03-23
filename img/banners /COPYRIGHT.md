@@ -1,0 +1,1 @@
+All images contained in this repository are © and are provided exclusively for the personal use of Mateus Gabriel Mendes de Paula (‘WaveringRuby’). No image may be reproduced, redistributed, or used for any other purpose without prior written permission.
