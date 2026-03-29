@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="img/banners/banner_face.png" width="50%" height="50%" alt="My Banner Face">
+  <img src="img/banners/banner_face.png" alt="My Banner Face">
 </div>
 
 # Hello there 👋
-<div align="center">
-  <img src="img/banners/banner1.png" width="50%" height="50%" alt="My First Banner">
-</div>
 
 ---
 
