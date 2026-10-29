@@ -3,7 +3,11 @@
 </div>
 
 # Hello there 👋
-
+<!-- 
+  My philosofy is basically this and this is somethin that I live by, and I always have, and I always will:
+  Don't, ever, for any reason do anything to anyone for any reason ever, no matter what. No matter wh-- where, or who
+  or who you are with, or--or where you are going , or--or where you've been, ever. For any reason whatsoever.
+-->
 ---
 
 I'm Mateus Gabriel - a developer passionate about IT projects and software development. 
